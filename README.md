@@ -3,7 +3,11 @@
 
 Repositório para o compartilhamento dos códigos submetidos à plataforma [Beecrowd](https://www.beecrowd.com.br/judge/pt). Apenas soluções aceitas pela plataforma, codificadas e comentadas por mim, a fim de facilitar a compreensão de cada código.
 
+<div align="center">
+
 ![Badge "em desenvolvimento"](http://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge)
+
+</div>
 
 ## 🗂 Categorias
 Os problemas da Beecrowd são divididos em 9 categorias, abaixo, você poderá acessar cada uma das categorias de acordo com o progresso e desenvolvimento das minhas atividades.
