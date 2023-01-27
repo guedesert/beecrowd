@@ -15,6 +15,7 @@ n20 = m100//20
 m100 %= 20
 # Calcula o número de notas de R$ 10,00 presentes em m100 a partir de uma divisão exata por 10.
 n10 = m100//10
+# Calcula quantos reais sobram após serem retiradas as notas de R$ 10,00.
 m100 %= 10
 # Calcula o número de notas de R$ 5,00 presentes em m100 a partir de uma divisão exata por 5.
 n5 = m100//5
