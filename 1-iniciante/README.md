@@ -395,3 +395,59 @@ Obs.: apenas para facilitar o cálculo, considere todo ano com 365 dias e todo m
 ---
 
 </div>
+
+- [x] Problema #1021 - [Notas e Moedas](https://www.beecrowd.com.br/judge/pt/problems/view/1021)
+
+Leia um valor de ponto flutuante com duas casas decimais. Este valor representa um valor monetário. A seguir, calcule o menor número de notas e moedas possíveis no qual o valor pode ser decomposto. As notas consideradas são de 100, 50, 20, 10, 5, 2. As moedas possíveis são de 1, 0.50, 0.25, 0.10, 0.05 e 0.01. A seguir mostre a relação de notas necessárias.
+
+**Entrada:** O arquivo de entrada contém um valor de ponto flutuante N (0 ≤ N ≤ 1000000.00).
+
+**Saída:** Imprima a quantidade mínima de notas e moedas necessárias para trocar o valor inicial, conforme exemplo fornecido.
+
+Obs: Utilize ponto (.) para separar a parte decimal.
+
+<div align="center">
+
+---
+
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](./python/1021.py)
+
+---
+
+</div>
+
+- [x] Problema #1035 - [Teste de Seleção 1](https://www.beecrowd.com.br/judge/pt/problems/view/1035)
+
+Leia 4 valores inteiros A, B, C e D. A seguir, se B for maior do que C e se D for maior do que A, e a soma de C com D for maior que a soma de A e B e se C e D, ambos, forem positivos e se a variável A for par escrever a mensagem "Valores aceitos", senão escrever "Valores nao aceitos".
+
+**Entrada:** Quatro números inteiros A, B, C e D.
+
+**Saída:** Mostre a respectiva mensagem após a validação dos valores.
+
+<div align="center">
+
+---
+
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](./python/1035.py)
+
+---
+
+</div>
+
+- [ ] Problema #1036 - [Fórmula de Bhaskara](https://www.beecrowd.com.br/judge/pt/problems/view/1036)
+
+Leia 3 valores de ponto flutuante e efetue o cálculo das raízes da equação de Bhaskara. Se não for possível calcular as raízes, mostre a mensagem correspondente “Impossivel calcular”, caso haja uma divisão por 0 ou raiz de numero negativo.
+
+**Entrada:** Leia três valores de ponto flutuante (double) A, B e C.
+
+**Saída:** Se não houver possibilidade de calcular as raízes, apresente a mensagem "Impossivel calcular". Caso contrário, imprima o resultado das raízes com 5 dígitos após o ponto, com uma mensagem correspondente conforme exemplo abaixo. Imprima sempre o final de linha após cada mensagem.
+
+<div align="center">
+
+---
+
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+
+---
+
+</div>
