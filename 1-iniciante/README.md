@@ -13,7 +13,7 @@ O seu primeiro programa em qualquer linguagem de programação normalmente é o 
 
 ---
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](./python/1000.py)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](./python/1000.py) [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](./javascript/1000.js)
 
 ---
 
@@ -31,7 +31,7 @@ Leia 2 valores inteiros e armazene-os nas variáveis A e B. Efetue a soma de A e
 
 ---
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](./python/1001.py)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](./python/1001.py) [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](./javascript/1001.js)
 
 ---
 
@@ -50,7 +50,7 @@ A fórmula para calcular a área de uma circunferência é: area = π . raio2. C
 
 ---
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](./python/1002.py)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](./python/1002.py) [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](./javascript/1002.js)
 
 ---
 
@@ -68,7 +68,7 @@ Leia dois valores inteiros, no caso para variáveis A e B. A seguir, calcule a s
 
 ---
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](./python/1003.py)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](./python/1003.py) [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](./javascript/1003.js)
 
 ---
 
@@ -86,7 +86,7 @@ Leia dois valores inteiros. A seguir, calcule o produto entre estes dois valores
 
 ---
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](./python/1004.py)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](./python/1004.py) [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](./javascript/1004.js)
 
 ---
 

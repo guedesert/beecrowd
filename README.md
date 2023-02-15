@@ -38,6 +38,6 @@ Este repositório está licensiado sob a [Licença MIT](./LICENSE). Copyright ©
 
 ---
 
-Criado com 💜 por [**Emanuel Guedes**](https://br.linkedin.com/in/guedesert)
+Criado com 💜 por [**Emanuel Guedes**](https://github.com/guedesert)
 
 </div>
