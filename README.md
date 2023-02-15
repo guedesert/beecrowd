@@ -16,7 +16,7 @@ Os problemas da Beecrowd são divididos em 9 categorias, abaixo, você poderá a
 
 ---
 
-[Iniciante](./1-iniciante/)
+[Iniciante](./1-iniciante/README.md)
 
 ---
 
